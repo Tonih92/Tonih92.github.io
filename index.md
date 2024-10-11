@@ -9,6 +9,12 @@ Tässä on yksinkertainen HTML-sivu, jonka voit avata selaimessa.
 - Ensimmäinen
 - Toinen
 - Kolmas
+- Neljäs
+
+Tänne vähän päivitystä nettisivusta!
+Halojata!
+
+Tiedote 11.10.2024: bla bla
 
 Voit myös klikata [Googleen](https://www.google.com)
 
